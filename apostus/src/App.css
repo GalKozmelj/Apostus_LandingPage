@@ -57,12 +57,19 @@ body{
   background-color: #867e56;
   widows: 100%;
   height: 800px;
-  border: 20px dashed #d8cd7f;
+  border: 20px dashed #ceccc0;
   margin: 30px;
   padding: 30px;
   color: white;
 
 }
 .video_plaeholder{
-  background-color: white;
+  background-color: #d8cd7f;
+}
+#button{
+  width: 100%;
+  height: 60px;
+  background-color: #d8cd7f;
+  border: 0px;
+  color: white;
 }
