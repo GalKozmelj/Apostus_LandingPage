@@ -1,3 +1,8 @@
+body{
+  background-color: #c3b86b;
+}
+
+
 .App {
   text-align: center;
 }
@@ -36,3 +41,28 @@
   width: 100%;
 
 } 
+
+
+.links{
+  widows: 100%;
+  height: 800px;
+  background-color: #736a46;
+  border: 20px dashed #d8cd7f;
+  margin: 30px;
+  padding: 30px;
+  color: white;
+
+}
+.card{
+  background-color: #867e56;
+  widows: 100%;
+  height: 800px;
+  border: 20px dashed #d8cd7f;
+  margin: 30px;
+  padding: 30px;
+  color: white;
+
+}
+.video_plaeholder{
+  background-color: white;
+}
